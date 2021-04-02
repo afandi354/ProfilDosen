@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Lecturer App</string>
+    <string name="lecturer_name">Nama Dosen</string>
+    <string name="lecturer_detail">Detail Dosen</string>
+    <string name="nip">NIP</string>
+    <string name="jabatan">Jabatan</string>
+    <string name="keahlian">Keahlian</string>
+    <string name="foto">Foto Dosen</string>
+    <string name="profile">Profile</string>
+</resources>
